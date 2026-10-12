@@ -3,6 +3,7 @@
 - 날짜: 2026-10-12
 - 범위: LEADORA | 리도라 셀프리더십 Blogger (`https://leadoramindset.blogspot.com/`)
 - 근거 자료: Google Drive 「LEADORA 블로그 유입 대시보드」 `03_콘텐츠별_성과` 탭, 「LEADORA 블로그 예약 발행 일정_2026-08-26~09-27」
+- **갱신 안내**: 이 기준선은 같은 날 Blogger 관리자 캡처 기준으로 교정되었습니다(게시됨 16 → 27, 예약 확정 0 → 5). 최신 기준은 `2026-10_LEADORA_BLOGGER_SYNC.md`를 따릅니다. 아래 내용은 당시 기록으로 보존합니다.
 - 관련 문서: `leadora/published-content/PUBLISHED_CONTENT_INDEX.md`, `leadora/scheduled-content/SCHEDULED_CONTENT_INDEX.md`, `leadora/content-map/LEADORA_CONTENT_STATUS.md`
 
 ## 이번에 확정한 것
