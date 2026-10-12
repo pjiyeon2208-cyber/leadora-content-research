@@ -61,11 +61,15 @@
 
 # 비어 있는 원천 콘텐츠 영역
 
-분석 전 (Search Console 분석 후 확정)
+1차 Search Console 진단(`leadora/seo-reports/LEADORA_SEARCH_TRAFFIC_DIAGNOSIS_2026-10.md`)을 마쳤지만, 검색어 데이터가 없어 확정을 보류합니다.
+
+보류 (검색어 데이터 확보 후 확정)
 
 # 검색 유입 확장 영역
 
-분석 전 (Search Console 분석 후 확정)
+1차 Search Console 진단(`leadora/seo-reports/LEADORA_SEARCH_TRAFFIC_DIAGNOSIS_2026-10.md`)을 마쳤지만, 검색어 데이터가 없어 확정을 보류합니다.
+
+보류 (검색어 데이터 확보 후 확정)
 
 # 브리지 콘텐츠 후보
 
@@ -83,8 +87,12 @@
 
 # 유튜브 전환 후보
 
-분석 전 (유튜브 최우선 소재는 Search Console 분석 후 확정)
+1차 Search Console 진단(`leadora/seo-reports/LEADORA_SEARCH_TRAFFIC_DIAGNOSIS_2026-10.md`)을 마쳤지만, 검색어 데이터가 없어 확정을 보류합니다.
+
+보류 (검색어 데이터 확보 후 확정)
 
 # 다음 원천 콘텐츠 우선순위
 
-분석 전 (Search Console 분석 후 확정)
+1차 Search Console 진단(`leadora/seo-reports/LEADORA_SEARCH_TRAFFIC_DIAGNOSIS_2026-10.md`)을 마쳤지만, 검색어 데이터가 없어 확정을 보류합니다.
+
+보류 (검색어 데이터 확보 후 확정)
